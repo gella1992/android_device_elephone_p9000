@@ -3,13 +3,12 @@ PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio.usb.default \
     audio.r_submix.default \
-    audio_policy.default \
     libaudio-resampler \
     libaudiopolicymanagerdefault \
     libmtk_symbols \
     libtinycompress \
     libtinyxml \
-    tinymix
+    libtinymix
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_policy.conf:system/etc/audio_policy.conf \

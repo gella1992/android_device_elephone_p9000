@@ -220,6 +220,7 @@ lib/hw/lights.mt6755.so
 lib/hw/memtrack.mt6755.so
 lib/hw/mmsdk.mt6755.so
 lib/hw/nfc_nci.mt6605.default.so
+lib/hw/radio.fm.mt6755.so
 lib/hw/sensors.mt6755.so
 lib/lib3a.so
 lib/lib3a_sample.so
