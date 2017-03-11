@@ -13,5 +13,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_device.xml:system/etc/audio_device.xml \
     $(LOCAL_PATH)/audio/audio_effects.conf:system/etc/audio_effects.conf \
-    $(LOCAL_PATH)/audio/audio_em.xml:system/etc/audio_em.xml
+    $(LOCAL_PATH)/audio/audio_em.xml:system/etc/audio_em.xml \
     $(LOCAL_PATH)/audio/audio_policy.conf:system/etc/audio_policy.conf
